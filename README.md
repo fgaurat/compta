@@ -1,2 +1,2 @@
-# compta
+# Compta
 eolem compta
